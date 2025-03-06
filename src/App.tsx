@@ -31,7 +31,7 @@ export const App = () => {
           >
             Hai premuto il pulsante {count} {count === 1 ? "volta" : "volte"}
           </button>
-          <button onClick={()=> setTilte(" goat calda  ")}>
+          <button onClick={()=> setTilte("  goat calda ")}>
           
            <div className="bg-blue-500 text-white px-4 py-2 rounded-md shadow-md cursor-pointer hover:bg-red-600 transition-colors"> scopri il giocatore piu forte </div>
           </button>
