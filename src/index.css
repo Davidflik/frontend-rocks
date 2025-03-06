@@ -1,6 +1,10 @@
 @import "tailwindcss";
 
+
+
 body {
-  background-image: url('/geodude-pattern.png');
+  background-image : url('https://upload.wikimedia.org/wikipedia/commons/9/9e/Logo_SC_Caronnese_1927.png') ;
   background-repeat: repeat;
+  
 }
+
