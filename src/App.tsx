@@ -40,7 +40,7 @@ export const App = () => {
           </p>
         </div>
 
-        <p className="text-center text-sm text-blue-400">Clicca sui loghi per saperne di più</p>
+       
       </div>
     </div>
   );
