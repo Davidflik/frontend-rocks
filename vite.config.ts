@@ -4,6 +4,6 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: process.env.NODE_ENV === 'production' ? 'https://github.com/Davidflik/frontend-rocks/actions/runs/13697789331/job/38304060186' : '/',
+  base: process.env.NODE_ENV === 'production' ? 'https://github.com/Davidflik/frontend-rocks/' : '/',
   plugins: [react(), tailwindcss()],
 })
